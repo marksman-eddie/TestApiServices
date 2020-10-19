@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{728CB649-52F0-4FAF-AEDB-FAB90DB76732}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestAppZscb PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryTestApi/LibraryTestApi/HttpbinClient.cs">
+    <Files>
+      <File FileName="TestAppZscb/Controllers/ReqresApiController.cs" Line="13" Column="77" />
+      <File FileName="TestAppZscb/Startup.cs" Line="62" Column="16" />
+      <File FileName="TestAppZscb/Properties/launchSettings.json" Line="12" Column="7" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/ListUsersModel.cs" Line="11" Column="50" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserModel.cs" Line="1" Column="1" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/AdModel.cs" Line="8" Column="41" />
+      <File FileName="LibraryTestApi/LibraryTestApi/ForReqres.cs" Line="14" Column="6" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserRegistrationRequest.cs" Line="6" Column="22" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserRegistrationResponseModel.cs" Line="8" Column="42" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserCreateRequestModel.cs" Line="7" Column="41" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserCreateResponseModel.cs" Line="9" Column="48" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserUpdateResponseModel.cs" Line="7" Column="41" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Reqres/UserUpdateRequestModel.cs" Line="6" Column="36" />
+      <File FileName="LibraryTestApi/LibraryTestApi/ForHttpbin.cs" Line="57" Column="45" />
+      <File FileName="TestAppZscb/appsettings.json" Line="10" Column="16" />
+      <File FileName="TestAppZscb/Controllers/HttpbinApiController.cs" Line="41" Column="10" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Httpbin/Auth/BasicAuthRequestModel.cs" Line="4" Column="18" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Httpbin/Auth/BasicAuthResponseModel.cs" Line="7" Column="40" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Httpbin/Auth/DigestAuthRequestModel.cs" Line="6" Column="38" />
+      <File FileName="LibraryTestApi/LibraryTestApi/Model/Httpbin/Auth/DigestAuthResponseModel.cs" Line="7" Column="41" />
+      <File FileName="TestAppZscb/Middlewares/ExceptionMiddleware.cs" Line="8" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAppZscb" expanded="True" selected="True">
+            <Node name="LibraryTestApi" expanded="True" />
+            <Node name="TestAppZscb" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>JsonConvert.SerializeObject(user, Formatting.Indented)</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

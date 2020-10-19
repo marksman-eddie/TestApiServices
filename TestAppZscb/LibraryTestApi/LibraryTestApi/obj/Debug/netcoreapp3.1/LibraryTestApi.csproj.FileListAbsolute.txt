@@ -1,0 +1,17 @@
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.deps.json
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.dll
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.pdb
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.csprojAssemblyReference.cache
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.AssemblyInfoInputs.cache
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.AssemblyInfo.cs
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.csproj.CoreCompileInputs.cache
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.dll
+/Users/eddie/Projects/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.pdb
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.deps.json
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.dll
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/bin/Debug/netcoreapp3.1/LibraryTestApi.pdb
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.AssemblyInfoInputs.cache
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.AssemblyInfo.cs
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.csproj.CoreCompileInputs.cache
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.dll
+/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/obj/Debug/netcoreapp3.1/LibraryTestApi.pdb

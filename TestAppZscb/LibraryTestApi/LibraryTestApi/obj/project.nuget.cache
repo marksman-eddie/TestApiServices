@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHDQNdmtlEpugOW5xOys+Pm2UOAXsKBTZQldXm2L+nYPGqCySaqIW66W+fp5BovrYhHAigcMDXT7/rnmojHGEg==",
+  "success": true,
+  "projectFilePath": "/Users/eddie/Projects/TestAppZscb/LibraryTestApi/LibraryTestApi/LibraryTestApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/eddie/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

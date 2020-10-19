@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryTestApi/ForReqres.cs">
+    <Files>
+      <File FileName="LibraryTestApi/ForHttpbin.cs" Line="7" Column="1" />
+      <File FileName="LibraryTestApi/ForReqres.cs" Line="56" Column="55" />
+      <File FileName="LibraryTestApi/Model/Reqres/UserModel.cs" Line="13" Column="1" />
+      <File FileName="LibraryTestApi/Model/Reqres/ListUsersModel.cs" Line="17" Column="1" />
+      <File FileName="LibraryTestApi/Model/Reqres/AdModel.cs" Line="11" Column="1" />
+      <File FileName="LibraryTestApi/Model/Reqres/UserCreateModel.cs" Line="12" Column="1" />
+      <File FileName="LibraryTestApi/Model/Reqres/UserRegistrationModel.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryTestApi" expanded="True">
+            <Node name="LibraryTestApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True">
+                <Node name="Reqres" expanded="True">
+                  <Node name="UserModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
